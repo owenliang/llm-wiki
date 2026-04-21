@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "skills": {
+    "llm-wiki": {
+      "path": "./skills/llm-wiki/SKILL.md",
+      "description": "基于LLM的个人知识库系统，遵循LLM Wiki模式，通过三层架构（原始源、维基层、模式层）构建持久、复合的知识库。当用户提供新的源文档时，使用此技能来处理并整合到现有知识库中。"
+    }
+  }
+}
